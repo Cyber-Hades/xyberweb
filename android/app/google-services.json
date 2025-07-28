@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355212234759",
+    "project_id": "xyberweb-a866a",
+    "storage_bucket": "xyberweb-a866a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355212234759:android:f360ee749a2103592f1aa2",
+        "android_client_info": {
+          "package_name": "com.example.xyberweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355212234759-tabfk5aso46olbkgsud3d71nkpt3p0v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xyberweb",
+            "certificate_hash": "2551fbe0fec49e5450123197ff3cc873575daef2"
+          }
+        },
+        {
+          "client_id": "355212234759-jss0ap49fis1gq7a76clbshodumkoock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUSeSomrINnbH8yZ-YQznlybMYAtJZA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355212234759-10ip8354dn1jv8t7i0qnisiumvvrqs9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
